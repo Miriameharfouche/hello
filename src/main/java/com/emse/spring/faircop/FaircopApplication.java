@@ -8,6 +8,7 @@ public class FaircopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FaircopApplication.class, args);
+
 	}
 
 }
